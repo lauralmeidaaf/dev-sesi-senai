@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+<style>
+    body{ background-color: rgb(66, 166, 173);}
+    h1{
+        color: rgb(111, 63, 146); text-align: center;
+    }
+ legend{ text-align: center;
+    color: rgb(111, 63, 146);
+ }
+ th {background-color: rgb(117, 58, 159); color: rgb(255, 255, 255);}
+fieldset{
+    background-color: rgb(255, 108, 179);
+  
+}
+ 
+</style>
+   
+</head>
+<body>
+
+<h1> Ficha de Cadastro </h1>
+<form> 
+    <fieldset>
+        <legend> Dados pessoais </legend>
+         <table>
+            <tr>
+                <td>Nome Aluno</td>
+                <td> <input type="text" placeholder="Digite o nome do aluno"> </td>
+            </tr> 
+            <tr>
+                <td><label>Nascimento</label></td>
+                <td> <input type="date"></td>
+            </tr>
+            <tr>
+                <td>Idade</td>
+                <td> <input type="text"></td>
+            </tr>
+            <tr>
+                <td>Nome Mãe</td>
+                <td> <input type="text" placeholder="Digite o nome da mãe"> </td>
+            </tr>
+            <tr>
+                <td>Telefone</td>
+                <td> <input type="text"> </td>
+            </tr>
+            <tr>
+                <td>Emai</td>
+                <td> <input type="email" placeholder="Digite o e-mail"> </td>
+            </tr>
+            <tr>
+                <td>Senha</td>
+                <td> <input type="text" placeholder="Digite a senha"> </td>
+            </tr>
+            <tr>
+                <td>Foto</td>
+                <td> <input type="file"> </td>
+            </tr>
+
+         </table>
+    </fieldset>
+    <fieldset>
+        <legend>Informações de Matrícula</legend>
+            <table>
+                <tr>
+                    <th> Série </th>
+                    <th> Turno </th>
+                    <th> Atividades Extracurriculares</th>
+                </tr>
+                <tr> 
+                    <td> <br> <br>
+                        <select name="Plataforma" required="required">
+
+                        <option value="Escolaridade">Selecione a escolaridade</option>
+                        <option value="Médio">Ensino Médio </option>
+                        <option value="Básico">Ensino Básico</option>
+                        <option value="Superior">Ensino Superior</option>
+                    </td>
+                    <td> <input type="radio" name="opçao" value="op1">Manhã<br> 
+                    <input type="radio" name="opçao" value="op2">Tarde</td>
+                    <td> <input type="checkbox">Informática<br>
+                        <input type="checkbox">Música<br>
+                        <input type="checkbox">Pintura<br>
+                        <input type="checkbox">Judô<br>
+                        <input type="checkbox">Futebol</td>
+                </tr>
+            </table>
+    </fieldset>
+    <fieldset>
+        <legend>Observação</legend>
+        <textarea c id="Observação" name="Observação"
+                  rows="3" cols="60">
+                 
+        </textarea>  
+    </fieldset>
+    <input type="reset" value="enviar">
+    <input type="reset" value="limpar">
+</form>
+</html>
+</body>

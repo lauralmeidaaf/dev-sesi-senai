@@ -1,0 +1,40 @@
+body{background-color: rgb(122, 158, 158);/*aterando cor de fundo do body*/}
+h1{text-align: center;/*colocando texto no centro*/ color: antiquewhite;}
+p{color: blue;/*colorindo de azul o paragrafo*/}
+img{width: 200px;height: 100px;/*arrumando os px da imagem*/}
+h2{font-size: 20px;background-color: rgb(255, 152, 205);/*tamanho da fonte e cor*/}
+h3{text-align: right;font-size: 18px;background-color:  rgb(75, 83, 143);color: blanchedalmond;/*px,texto alinhado na direita, cor de fundo e cor da fonte*/}
+.p-vermelho{color: red;transition: 500ms;}
+.p-vermelho:hover{color: rgb(255, 255, 255);background-color: brown;}
+.p-amarela{color: yellow;/*definindo p com class*/}
+#p-verde{color: green;/*definindo p com id*/}
+.font-courier-new{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+.sombreado{text-shadow: 1px 1px 0px rgb(84, 84, 84);}
+.opacidade{background-color: aqua;opacity: 0.3;}
+.opacidade-rgba{background-color: rgb(0, 67, 67);}
+.fundo-imagem{height: 400px;background-image: url(../img/arte\ abstrata.jpg);background-size: cover ;}
+.fundo-imagem-dinamica{height: 1000px;background: url(https://source.unsplash.com/1920x2400?hdr,ocean);}]
+
+.borda{
+    /*Aplicando uma borda largura tipo da borda e cor*/
+    border:2px solid red;
+    /*Aplicando um arredondamento no elemento*/
+    border-radius: 10px;}
+.borda{border: 2px solid black;}
+.linha-de-baixo{border-bottom: 2px solid red;}
+.borda-arredondada{border: 1px solid green;border-radius: 10px;}
+.borda-com-fundo-colorido{border-left: 4px solid purple;
+background-color: rgb(148, 148, 255);}
+.borda-em-cima{border-top: 1px solid blue;}
+.borda-mesclada{border-top: 4px solid yellow;border-bottom:4px dotted red ;border-left: 4px double green;border-right: 4px double blue ;}
+.imagem-redonda{height: 150px;width: 250px;border-radius: 10px;}
+.imagem-circular{height: 250px;width: 250px;border-radius: 1000px;}
+.imagem-dentro-da-outra{height: 400px;width: 400px;border-radius: 10000px;border: 10px solid green;}
+
+.div{border: 1px solid black;background-color: green;}
+.div2{border: 1px solid black;background-color: rgb(179, 230, 179);text-align: right;}
+.div-margin{background-color: rgb(235, 154, 236);margin: 20px;}
+.div-centralizada{background-color: azure;width: 150px;margin: 0 auto;}
+.div-padding{background-color: bisque;padding: 20px;}
+.div-completa{background-color: blanchedalmond; border: 2px solid black; margin: 10px auto; padding: 7px 9px 11px 13px;
+}

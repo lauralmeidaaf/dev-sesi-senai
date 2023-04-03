@@ -1,0 +1,26 @@
+h1{color: rgb(61, 61, 61);}
+
+body{background-color: rgb(204, 204, 204);t}
+
+table{height: 400px; width: 400px;}
+
+.vermelho{background-color: red;}
+
+.amarelo{background-color: yellow;}
+
+.azul{background-color: blue;}
+
+.rosa{background-color: rgb(255, 0, 183);}
+
+.verde{background-color: green}
+
+#black{background-color: black;}
+
+.rosa:hover{background-color: rgb(0, 213, 255);
+ transition: 1s;}
+ .vermelho:hover{background-color: rgba(0, 213, 255, 0.732);
+    transition: 1s;}
+    .azul:hover{background-color: rgb(0, 213, 255);
+        transition: 1s;}
+        .verde:hover{background-color: rgb(0, 213, 255);
+            transition: 1s;}

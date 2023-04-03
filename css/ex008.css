@@ -1,0 +1,10 @@
+.borda{border: 2px solid black;}
+.linha-de-baixo{border-bottom: 2px solid red;}
+.borda-arredondada{border: 1px solid green;border-radius: 10px;}
+.borda-com-fundo-colorido{border-left: 4px solid purple;
+background-color: rgb(148, 148, 255);}
+.borda-em-cima{border-top: 1px solid blue;}
+.borda-mesclada{border-top: 4px solid yellow;border-bottom:4px dotted red ;border-left: 4px double green;border-right: 4px double blue ;}
+.imagem-redonda{height: 150px;width: 250px;border-radius: 10px;}
+.imagem-circular{height: 250px;width: 250px;border-radius: 1000px;}
+.imagem-dentro-da-outra{height: 400px;width: 400px;border-radius: 10000px;border: 10px solid green;}

@@ -1,0 +1,135 @@
+.botao{background-color: rgb(32, 50, 150);
+       padding: 10px;
+       text-decoration: none;
+       color: white;
+       box-shadow: 2px 2px 5px black;
+       text-shadow: 2px 2px 5px black ;
+       border: 2px solid rgb(108, 133, 255);}
+       .botao:hover{background-color: rgb(134, 159, 255);}
+
+
+.botao2{
+    background-color: rgb(31, 126, 51);
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    box-shadow: 2px 2px 5px black;
+    text-shadow: 2px 2px 5px black ;
+    border: 2px solid rgb(133, 255, 127);
+    border-radius: 8px;}
+    .botao2:hover{background-color: rgb(182, 25, 142);}
+
+
+.botao3{background-color: rgb(123, 31, 31);
+        padding: 10px;
+        text-decoration: none;
+        color: white;
+        border-top-left-radius: 18px;
+        border-bottom-right-radius: 18px;
+        box-shadow: 2px 2px 5px black;
+        text-shadow: 2px 2px 5px black ;
+        border: 2px solid rgb(255, 142, 238);}
+        .botao3:hover{background-color: rgb(57, 11, 109);}
+
+
+.botao4{background-color: rgb(247, 192, 82);
+        padding: 10px;
+        text-decoration: none;
+        color: white;
+        border-top-left-radius: 18px;
+        border-bottom-left-radius: 18px;
+        box-shadow: 2px 2px 5px black;
+        text-shadow: 2px 2px 5px black ;
+        border: 2px solid rgb(237, 110, 233);}
+        .botao4:hover{background-color: rgb(156, 7, 131);}
+
+
+.botao5{background:linear-gradient(red, rgb(162, 44, 168) blue);
+        padding: 10px;
+        text-decoration: none;
+        color: white;
+        border-top-left-radius: 18px;
+        border-top-right-radius: 18px;
+        box-shadow: 2px 2px 5px black;
+        text-shadow: 2px 2px 5px black ;
+        border: 2px solid rgb(255, 148, 243);}
+        .botao5:hover{background-color: aqua;}
+
+
+
+.botao6{background:linear-gradient(rgb(140, 206, 140), rgb(90, 208, 91) rgb(91, 204, 93));
+        padding: 10px;
+        text-decoration: none;
+        color: white;
+        box-shadow: 2px 2px 5px black;
+        text-shadow: 2px 2px 5px black ;
+        border: 2px solid green;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+        border-top-right-radius: 30px;
+        border-top-left-radius: 30px;
+    }
+        .botao6:hover{background-color: aqua;}
+
+
+.botao7{background:linear-gradient(rgb(0, 200, 255), rgb(0, 68, 255) rgb(122, 1, 193) rgb(211, 5, 208));
+        padding: 10px;
+        text-decoration: none;
+        color: white;
+        border-radius: 8px;
+        box-shadow: 2px 2px 5px black;
+        text-shadow: 2px 2px 5px black ;
+        border: 2px solid green;}
+        .botao7:hover{background-color: aqua;}
+
+
+.botao8{background-color: aquamarine;
+        padding: 10px;
+        text-decoration: none;
+        color: white;
+        border-radius: 8px;
+        box-shadow: 2px 2px 5px black;
+        text-shadow: 2px 2px 5px black ;
+        border: 2px solid green;}
+        .botao8:hover{background-color: aqua;}
+
+
+.botao9{background-color: aquamarine;
+        padding: 10px;
+        text-decoration: none;
+        color: white;
+        border-radius: 8px;
+        box-shadow: 2px 2px 5px black;
+        text-shadow: 2px 2px 5px black ;
+        border: 2px solid green;}
+        .botao:hover{background-color: aqua;}
+
+.botao10{background-color: aquamarine;
+         padding: 10px;text-decoration: none;
+         color: white;border-radius: 8px;
+         box-shadow: 2px 2px 5px black;
+         text-shadow: 2px 2px 5px black ;
+         border: 2px solid green;}
+        .botao:hover{background-color: aqua;}
+
+
+.botao11{background-color: aquamarine;
+         padding: 10px;
+         text-decoration: none;
+         color: white;
+         border-radius: 8px;
+         box-shadow: 2px 2px 5px black;
+         text-shadow: 2px 2px 5px black ;
+         border: 2px solid green;}
+        .botao:hover{background-color: aqua;}
+
+
+.botao12{background-color: aquamarine;
+         padding: 10px;
+         text-decoration: none;
+         color: white;
+         border-radius: 8px;
+         box-shadow: 2px 2px 5px black;
+           /text-shadow: 2px 2px 5px black ;
+         border: 2px solid green;}
+         .botao:hover{background-color: aqua;}

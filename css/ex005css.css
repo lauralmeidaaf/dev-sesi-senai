@@ -1,0 +1,12 @@
+body{background-color: rgb(162, 219, 159);}
+.centro{text-align: center;text-shadow: 2px 3px 8px rgb(8, 23, 186), 0 0 25px rgb(0, 13, 193),0 0 5px  rgb(4, 9, 78)
+    ;color: rgb(219, 198, 172);font-family: 'Lobster', cursive;}
+.tlcentro{text-align: center;font-family: 'Lobster', cursive; color:rgb(172, 172, 0);}
+.textocentralizado{text-align: center;color: rgb(172, 172, 0);font-family: 'Lobster', cursive;}
+.titulo{background-color: rgb(27, 84, 32);text-align: center;font-family: 'Lobster', cursive;}
+.tldireita{text-align: right;font-family: 'Lobster', cursive;color: rgb(53, 114, 70);}
+.textodireita{text-align: right;color: rgb(53, 114, 70);font-family: 'Lobster', cursive;}
+.tlesquerda{color: red;font-family: 'Lobster', cursive;}
+.textoesquerda{color: red;font-family: 'Lobster', cursive;}
+.titulo{font-family: 'Lobster', cursive;color: bisque;}
+

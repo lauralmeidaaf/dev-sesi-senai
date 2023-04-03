@@ -1,0 +1,16 @@
+body{background-color: rgb(156, 255, 222);text-align: center;}
+.fonte-padrão{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+.sombreado{text-shadow: 3px 3px 0px rgb(84, 84, 84);}
+h1{color: beige;}
+.fonte-google{font-family: 'Lobster', cursive;}
+.fonte-externa{}
+.fonte-local{
+    /* Colocando o nome da fonte que nós colocamos no @font-face */
+    font-family: 'Fonte Velho Oeste';
+}
+/* Declarando a fonte baixada, o nome e o caminho da fonte 
+    o .. volta uma pasta para buscar o arquivo*/
+@font-face {
+    font-family: 'Fonte Velho Oeste';
+    src: url(../velhooeste2.ttf);
+}

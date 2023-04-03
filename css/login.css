@@ -1,0 +1,45 @@
+body {
+    background-image: url(https://i.pinimg.com/564x/d8/c7/8e/d8c78e6a65c19f710112d4cc83a6fbdd.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-align: center;
+}
+
+.div1 {
+    background-color: rgba(220, 220, 220, 0.46);
+    border-radius: 5px;
+    width: 450px;
+    height: 500px;
+    margin: 0 auto;
+}
+
+input {
+    background-color: white;
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+
+    margin-left: 30%;
+    margin-top: 20px;
+}
+
+.input2 {
+    background-color: white;
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.Botão.submit {
+    margin-left: 30%;
+}
+
+.Botão {
+    margin-top: 80px;
+    height: 30px;
+    width: 100px;
+    margin-bottom: 90px;
+}

@@ -1,0 +1,4 @@
+.fundo-azul{background-color: rgb(190, 222, 255);}
+.fundo-imagem{height: 900px;background-image: url(../img/matriz-musicdot-antiga.jpg);background-size: cover ;}
+.borda{border-bottom: 2px solid black;}
+.familia{width: 400px;float: right;}

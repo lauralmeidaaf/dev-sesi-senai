@@ -1,0 +1,13 @@
+body{align-items: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fcanaltech.com.br%2Fmeio-ambiente%2Fouviu-o-barulho-no-ceu-entenda-o-fenomeno-que-assustou-os-brasileiros-no-fds-162933%2F&psig=AOvVaw164QXb0BwSKKM4OHpo6v66&ust=1680026930645000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJCripPb_P0CFQAAAAAdAAAAABAJ);}
+
+h1{text-align: center;}
+.fundo{width: 300px;
+       height: 250px;
+       background-color: bisque;}
+
+.input{margin-left: 60px;}
+.input1{margin-left: 25px;}
+.input2{margin-left: 60px;}

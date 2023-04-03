@@ -1,0 +1,39 @@
+.flex-1{
+    background-color: rgb(255, 131, 207);
+    display: flex;
+}
+
+.flex-coluna{
+    background-color: rgb(255, 131, 207);
+    padding: 20px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.wrap{
+    background-color: rgb(255, 131, 207);
+    padding: 20px;
+    margin-top: 20px;
+    flex-wrap: wrap;
+    display: flex;
+}
+
+.wrap > img{
+    width: 155px;
+    margin: 9px;
+}
+.centralizar{
+    background-color: antiquewhite;
+    padding: 20px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;}
+
+.spcae-around{
+    background-color: antiquewhite;
+    padding: 20px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
